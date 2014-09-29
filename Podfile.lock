@@ -1,0 +1,18 @@
+PODS:
+  - Expecta (0.3.1)
+  - Realm (0.85.0):
+    - Realm/Headers
+  - Realm/Headers (0.85.0)
+  - Specta (0.2.1)
+
+DEPENDENCIES:
+  - Expecta
+  - Realm
+  - Specta
+
+SPEC CHECKSUMS:
+  Expecta: 03aabd0a89d8dea843baecb19a7fd7466a69a31d
+  Realm: 01c074b534be68b55ba4228a3b16cf41da7af14d
+  Specta: 9141310f46b1f68b676650ff2854e1ed0b74163a
+
+COCOAPODS: 0.34.0.rc2
